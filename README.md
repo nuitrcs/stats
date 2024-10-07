@@ -21,8 +21,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Fall 2024</b></summary>
 
   ###
-* October 23: [Introduction to Statistical Power Analysis](https://planitpurple.northwestern.edu/event/619125)
-    * Recording [here](https://planitpurple.northwestern.edu/event/619125)
+* October 23: [Introduction to Statistical Power Analysis](https://github.com/nuitrcs/intro_power_analysis)
 
 </details>
 
