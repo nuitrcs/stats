@@ -22,6 +22,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * October 23: [Introduction to Statistical Power Analysis](https://github.com/nuitrcs/intro_power_analysis)
+    * Recording [here](https://northwestern.zoom.us/rec/share/KJZd46pwZlHzHCXO-NbCAtqqTD4QD8f4Y1KomBPo6cg9SZ7Z_IemOK-LuEh2yNQR.ORfSzC3e82nPbxrw)
 
 </details>
 
