@@ -31,6 +31,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * February 18: [Intro to Bayesian Modeling](https://github.com/nuitrcs/intro_to_bayesian_modeling)
+    * Recording [here](https://northwestern.zoom.us/rec/share/6oRotL8JytrjouvDGdpiB69tjjAyJqxsH4G7QlUJAy7FjjNXBtBjOroUUI1cAz24.zy99BP0yeHJKH6dE)
 
 </details>
 
