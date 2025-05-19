@@ -26,12 +26,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2025</b></summary>
 
   ###
 * February 18: [Intro to Bayesian Modeling](https://github.com/nuitrcs/intro_to_bayesian_modeling)
     * Recording [here](https://northwestern.zoom.us/rec/share/6oRotL8JytrjouvDGdpiB69tjjAyJqxsH4G7QlUJAy7FjjNXBtBjOroUUI1cAz24.zy99BP0yeHJKH6dE)
+
+</details>
+
+<details open>
+  <summary><b>Spring 2025</b></summary>
+
+  ###
+* May 20: [How to Handle Multiple Statistical Comparisons](https://github.com/nuitrcs/multiple_statistical_comparisons)
 
 </details>
 
