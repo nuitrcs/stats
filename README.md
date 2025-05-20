@@ -40,6 +40,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * May 20: [How to Handle Multiple Statistical Comparisons](https://github.com/nuitrcs/multiple_statistical_comparisons)
+    * Recording [here](https://northwestern.zoom.us/rec/share/d7pf0NUXwIaSbOrJ50ylwrzZ2VGnaQWGUmeyiDYaoDRDhwjFsqxMZhl3LqpqeODO.LX6LvUefc6tCNKcr)
 
 </details>
 
