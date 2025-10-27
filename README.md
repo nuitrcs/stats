@@ -57,7 +57,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Fall 2025</b></summary>
 
   ###
-* October 28: [Introduction to Mixed Models for Correlated Data]()
+* October 28: [Introduction to Mixed Models for Correlated Data](https://github.com/nuitrcs/stats_mixed_models)
     * Recording [here]()
 
 </details>
