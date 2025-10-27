@@ -44,12 +44,21 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Summer 2025</b></summary>
 
   ###
 * August 27: [Introduction to Statistics in R](https://github.com/nuitrcs/r_statistics)
     * Recording not available.
+
+</details>
+
+<details open>
+  <summary><b>Fall 2025</b></summary>
+
+  ###
+* October 28: [Introduction to Mixed Models for Correlated Data]()
+    * Recording [here]()
 
 </details>
 
