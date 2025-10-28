@@ -58,7 +58,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * October 28: [Introduction to Mixed Models for Correlated Data](https://github.com/nuitrcs/stats_mixed_models)
-    * Recording [here]()
+    * Recording [here](https://northwestern.zoom.us/rec/share/IgRv_3v-ENzcylYzFki3J3u0C0C4b86saJbPWBtVJGCSiLhzbKEkLRJ8uMKLmTZm.RkiNLkXsUHUSLPMS)
 
 </details>
 
