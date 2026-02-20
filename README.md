@@ -66,7 +66,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Winter 2026</b></summary>
 
   ###
-* October 28: [Introduction to Survival Analysis](https://github.com/nuitrcs/intro_survival_analysis)
+* February 23: [Introduction to Survival Analysis](https://github.com/nuitrcs/intro_survival_analysis)
 
 </details>
 
