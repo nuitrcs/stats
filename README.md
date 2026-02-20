@@ -53,12 +53,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Fall 2025</b></summary>
 
   ###
 * October 28: [Introduction to Mixed Models for Correlated Data](https://github.com/nuitrcs/stats_mixed_models)
     * Recording [here](https://northwestern.zoom.us/rec/share/IgRv_3v-ENzcylYzFki3J3u0C0C4b86saJbPWBtVJGCSiLhzbKEkLRJ8uMKLmTZm.RkiNLkXsUHUSLPMS)
+
+</details>
+
+<details open>
+  <summary><b>Winter 2026</b></summary>
+
+  ###
+* October 28: [Introduction to Survival Analysis](https://github.com/nuitrcs/intro_survival_analysis)
 
 </details>
 
