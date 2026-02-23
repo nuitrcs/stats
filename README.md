@@ -67,6 +67,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * February 23: [Introduction to Survival Analysis](https://github.com/nuitrcs/intro_survival_analysis)
+    * Recording [here](https://northwestern.zoom.us/rec/share/tG9zxtw1NOR5hWQfjumgil5BOf4Pn00oyVhsQiMFbaVNLy01FUIbS_6D8J2OHm3x.jWuxBfjmG7VHRMb3)
 
 </details>
 
