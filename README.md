@@ -62,12 +62,20 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2026</b></summary>
 
   ###
 * February 23: [Introduction to Survival Analysis](https://github.com/nuitrcs/intro_survival_analysis)
     * Recording [here](https://northwestern.zoom.us/rec/share/tG9zxtw1NOR5hWQfjumgil5BOf4Pn00oyVhsQiMFbaVNLy01FUIbS_6D8J2OHm3x.jWuxBfjmG7VHRMb3)
+
+</details>
+
+<details open>
+  <summary><b>Spring 2026</b></summary>
+
+  ###
+* May 26: [Regression Model Interpretation with `marginaleffects`](https://github.com/nuitrcs/marginaleffects)
 
 </details>
 
