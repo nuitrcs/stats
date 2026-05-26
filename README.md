@@ -76,6 +76,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 * May 26: [Regression Model Interpretation with `marginaleffects`](https://github.com/nuitrcs/marginaleffects)
+    * Recording [here](https://northwestern.zoom.us/rec/share/BTd-Kh3g2hjJ9ZnHw0pF5obKeZ0T2xxFBIUH8tIGIdvkz4sr3rIIf-171NXqpuDf.66aU_j72wrrN8WVx)
 
 </details>
 
